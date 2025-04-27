@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Arwin V. Delasan<br>A full stack web developer from University of the Philippines - Cebu<br><br>
+Hi, I am Arwin V. Delasan<br>A Full Stack Web Developer from University of the Philippines - Cebu<br><br>
 
 
 ## 🌐 Socials:
