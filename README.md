@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Arwin V. Delasan<br>A Full Stack Web Developer/Software Engineer from University of the Philippines - Cebu<br><br>
+Hi, I am Arwin V. Delasan<br>A Software Engineer and n8n specialist from University of the Philippines - Cebu<br><br>
 
 
 ## 🌐 Socials:
