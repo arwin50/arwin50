@@ -1,6 +1,6 @@
 # Hey, I'm Arwin! 👋
 
-**Software Engineer & n8n Specialist**
+**Software Engineer & AI Automation Specialist**
 
 University of the Philippines - Cebu
 
